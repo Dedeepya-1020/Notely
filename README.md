@@ -1,2 +1,3 @@
 # Notely
-A basic Evernote clone
+
+This is a basic Evernote clone
